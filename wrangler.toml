@@ -5,7 +5,7 @@ name = "cf-page/vless2" # todo
 #main = "test/worker/worker-connect-test.js"
 main = "src/worker-vless.js"
 
-compatibility_date = "2024-04-15"
+compatibility_date = "2024-11-30"
 
 [vars]
 # UUID = "example_dev_token"
